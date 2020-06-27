@@ -1,0 +1,2 @@
+# springboot-redis-bloomfilter
+SpringBoot框架，利用Guava工具包中自带的布隆过滤器的实现类，解决高并发下海量数据查询可能造成的Redis缓存穿透的问题。
